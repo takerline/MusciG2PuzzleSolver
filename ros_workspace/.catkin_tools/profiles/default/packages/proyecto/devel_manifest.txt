@@ -1,0 +1,5 @@
+proyecto
+/home/laboratorio/ros_workspace/devel/.private/proyecto/cmake.lock /home/laboratorio/ros_workspace/devel/./cmake.lock
+/home/laboratorio/ros_workspace/devel/.private/proyecto/lib/pkgconfig/proyecto.pc /home/laboratorio/ros_workspace/devel/lib/pkgconfig/proyecto.pc
+/home/laboratorio/ros_workspace/devel/.private/proyecto/share/proyecto/cmake/proyectoConfig-version.cmake /home/laboratorio/ros_workspace/devel/share/proyecto/cmake/proyectoConfig-version.cmake
+/home/laboratorio/ros_workspace/devel/.private/proyecto/share/proyecto/cmake/proyectoConfig.cmake /home/laboratorio/ros_workspace/devel/share/proyecto/cmake/proyectoConfig.cmake

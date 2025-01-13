@@ -1,0 +1,2 @@
+universal_robot/universal_robots
+/home/laboratorio/ros_workspace/devel/.private/universal_robots/cmake.lock /home/laboratorio/ros_workspace/devel/./cmake.lock

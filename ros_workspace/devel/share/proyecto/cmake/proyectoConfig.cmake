@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/proyecto/share/proyecto/cmake/proyectoConfig.cmake
