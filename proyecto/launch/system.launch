@@ -1,16 +1,14 @@
 <launch>
-    <node name="hanoi_node" pkg="proyecto" type="hanoi_node.py" output="screen">
+
+    <node name="pieces_executor" pkg="proyecto" type="shapes_executor.py" output="screen">
     </node>
 
-    <node name="hanoi_executor" pkg="proyecto" type="hanoi_executor.py" output="screen">
+    <node name="pieces_detection" pkg="proyecto" type="NEW_deteshapes_detection_node.py" output="screen">
     </node>
 
-    <node name="pieces_executor" pkg="proyecto" type="NEW_orders_node.py" output="screen">
+    <node name="hanoi_detection" pkg="proyecto" type="hanoi_node.py" output="screen">
     </node>
 
-    <node name="pieces" pkg="proyecto" type="NEW_detection_node.py" output="screen">
+    <node name="hanoi_executor" pkg="proyecto" type="hanoi_detection_node.py" output="screen">
     </node>
-
-        <!-- remapeo de topics -->
-        <!-- <remap from="/output_topic" to="/new_output_topic" /> -->
 </launch>
